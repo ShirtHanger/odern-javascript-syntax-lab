@@ -1,0 +1,13 @@
+{
+  "name": "odern-javascript-syntax-lab",
+  "version": "1.0.0",
+  "description": "Week 7 Day 1 Lab",
+  "main": "exercises.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
